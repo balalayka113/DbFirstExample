@@ -21,6 +21,7 @@ namespace DbFirstExample {
             }
 
             Console.ReadKey();
+            Console.ReadKey();
         }
     }
 }
